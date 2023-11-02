@@ -1,0 +1,5 @@
+asciimatics==1.15.0
+numpy==1.26.1
+Pillow==10.1.0
+pyfiglet==1.0.2
+wcwidth==0.2.9
